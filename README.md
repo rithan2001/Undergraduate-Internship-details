@@ -1,4 +1,4 @@
-# Intern-details
+# Undergraduate-Intern-details
 # List-of-all-Research-Internship-Program-for-IIT-and-NITs
 
 This contains the list of almost all the internship available mostly for IIT and NIT students some are also for other indian college students.
